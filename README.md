@@ -1,2 +1,2 @@
-# macOS-Menubar-SNMP-Client
+# macOS Menu Bar SNMP Monitor
 Monitoring devices via snmp, display on macOS menubar.
